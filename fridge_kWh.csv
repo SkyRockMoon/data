@@ -1,5 +1,6 @@
 # kilowatt hour usage for the fridge
 # measured manually on pen and paper with a kill-a-watt and then digitized by hand
+# 144 oz of thermal mass was added to the fridge on 24-Oct-2019, meter was zerod again on 26-Oct-2019 
 # Date: Date of measurement in format DD-MMM-YYYY
 # Time: Time in military time (24 hr) HH:MM, in local time zone
 # kWh: Cumulitive kilowatt hour measurement
@@ -22,3 +23,19 @@
 19-Oct-2019,18:36,12.36,0
 21-Oct-2019,17:05,14.23,1
 23-Oct-2019,09:53,15.79,0
+26-Oct-2019,10:00,0.0,0
+27-Oct-2019,08:45,0.94,0
+28-Oct-2019,07:58,1.88,0
+29-Oct-2019,07:34,2.70,0
+30-Oct-2019,7:55,3.51,0
+31-Oct-2019,07:03,4.26,1
+1-Nov-2019,07:21,4.93,0
+2-Nov-2019,08:34,5.95,0
+3-Nov-2019,07:54,6.72,1
+8-Nov-2019,21:28,11.42,0
+12-Nov-2019,06:46,14.28,0
+13-Nov-2019,07:01,15.05,0
+14-Nov-2019,07:06,15.82,0
+15-Nov-2019,06:55,16.64,0
+
+
